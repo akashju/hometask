@@ -1,0 +1,51 @@
+.table-responsive
+{
+    overflow-x: auto;
+}
+.content {color:white ;}
+.content h2{color:#ffe52b;text-align:center; }
+.content p{color:#f7bd5f;}
+#tool {color:#ff8975;}
+
+
+
+     
+
+.maincontent{padding:10px;}
+    
+.navbar-form{padding:30px;}
+.btn {font-size:18.5 px;}
+body {background-color:#000000;}
+.footer{ background-color:black;}
+
+
+
+.footer h4{color:red;text-align:center; }
+#follow {font-size:18px;text-align:center;color:white;margin-bottom:-20px;}
+
+
+#logo{ margin:0 ;padding:0;list-style:none;}
+#social{display:inline-block;}
+.media-left {display:inline-block;padding:19px;text-decoration:none;float:left;}
+#power{display:inline-block;padding:10px;text-decoration:none;float:left;margin-bottom:20px; }
+
+blockquote {
+    border-left: none;color:white;text-align:center;
+
+}
+
+
+.map_container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+}
+.map_container .map_canvas{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;}
+
